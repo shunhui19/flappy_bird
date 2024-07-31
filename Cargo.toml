@@ -1,0 +1,8 @@
+[package]
+name = "flappy_bird"
+version = "0.1.0"
+authors = ["Frank Kuang <shunhui29@163.com>"]
+edition = "2021"
+
+[dependencies]
+bracket-lib = "~0.8.1"
